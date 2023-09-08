@@ -315,6 +315,9 @@ main {
 #pricing {
   text-align: center;
 }
+#pricing>p {
+  font-size:13px;
+}
  .xtensions-container{
    margin: 4rem auto;
  }
