@@ -509,12 +509,7 @@ footer ul li a{
  @media screen and (min-width: 765px) {
    
    
-   h2{
-     font-size: 18px;
-   }
-   h5{
-     font-size: 15px;
-   }
+   
   header {
  width: 100%;
  display: flex;
@@ -610,7 +605,6 @@ menu .login-btn {
   position: relative;
 }
 #feature>p,#pricing>p{
-  font-size: 16px;
   margin: .5rem 5rem ;
 }
 
