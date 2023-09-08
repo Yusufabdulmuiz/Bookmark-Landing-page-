@@ -510,7 +510,7 @@ footer ul li a{
    
    
    h2{
-     font-size: 28px;
+     font-size: 18px;
    }
    h5{
      font-size: 15px;
@@ -708,7 +708,6 @@ menu .login-btn {
    display: flex;
    align-items: center;
    justify-content: space-between;
-   flex-wrap: wrap;
    padding: 3rem 0;
  }
 
@@ -726,9 +725,7 @@ blockquote{
   font-size: 16px;
 }
 
-h6{
-  font-size: 18px;
-}
+
 
 form{
   display: flex;
