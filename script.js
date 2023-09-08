@@ -150,7 +150,7 @@ function validateMail() {
 
 
 submitBtn.addEventListener('click',function () {
-  // body...
+  // body... 
   validateMail();
 });
 
